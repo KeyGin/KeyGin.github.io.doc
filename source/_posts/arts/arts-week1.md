@@ -13,7 +13,7 @@ categories:
 ARTS 打卡第一周
 
 <!-- more -->
-# ARTS第一周 (11.25-12.01)
+# ARTS第一周 (2019.11.25 - 2019.12.01)
 ## 1. Algrithm
 ### A. LeetCode 7. Reverse Integer
 
